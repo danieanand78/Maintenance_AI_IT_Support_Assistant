@@ -1,0 +1,37 @@
+[
+    {
+        "id":"INC001",
+        "service":"VPN",
+        "severity":"high",
+        "description":"Panne générale",
+        "status":"active"
+    },
+    {
+        "id":"INC002",
+        "service":"Email",
+        "severity":"low",
+        "description":"Retard dans la réception",
+        "status":"resolved"
+    },
+    {
+        "id":"INC003",
+        "service":"DNS",
+        "severity":"high",
+        "description":"Resolution DNS intermittente",
+        "status":"resolved"
+    },
+    {
+        "id":"INC004",
+        "service":"ERP",
+        "severity":"medium",
+        "description":"Temps d'attente de réponse longue",
+        "status":"active"
+    },
+    {
+        "id":"INC005",
+        "service":"File Server",
+        "severity":"critical",
+        "description":"Inaccessible",
+        "status":"active"
+    }
+]

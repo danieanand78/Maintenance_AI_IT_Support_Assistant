@@ -1,0 +1,50 @@
+[
+    {
+        "id": "USR001",
+        "name": "Jean Rakoto",
+        "email": "jean@exemple.com",
+        "departement": "Finance"
+    },
+    {
+        "id": "USR002",
+        "name": "Marie Rasoa",
+        "email": "rasoa@exemple.com",
+        "departement": "Ressources Humaines"
+    },
+    {
+        "id": "USR003",
+        "name": "Jim Lalaina",
+        "email": "jimlalaina@exemple.com",
+        "departement": "Informatique"
+    },
+    {
+        "id": "USR004",
+        "name": "Danie Anand",
+        "email": "danie@exemple.com",
+        "departement": "Direction"
+    },
+    {
+        "id": "USR005",
+        "name": "Rah Maesch",
+        "email": "maesch@exemple.com",
+        "departement": "Comptabilité"
+    },
+    {
+        "id": "USR006",
+        "name": "Jean Carlos",
+        "email": "jeancarlos@exemple.com",
+        "departement": "Marketing"
+    },
+    {
+        "id": "USR007",
+        "name": "Aina Loic",
+        "email": "loic@exemple.com",
+        "departement": "Logistique"
+    },
+    {
+        "id": "USR008",
+        "name": "Anja Nasandratra",
+        "email": "anja@exemple.com",
+        "departement": "Juridique"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id": "SRV001",
+        "name": "VPN",
+        "category": "network",
+        "status": "incident"
+    },
+    {
+        "id": "SRV002",
+        "name": "Email",
+        "category": "communication",
+        "status": "operational"
+    },
+    {
+        "id": "SRV003",
+        "name": "Active Directory",
+        "category": "authentification",
+        "status": "operational"
+    },
+    {
+        "id": "SRV004",
+        "name": "ERP",
+        "category": "application",
+        "status": "degraded"
+    },
+    {
+        "id": "SRV005",
+        "name": "File Server",
+        "category": "storage",
+        "status": "operational"
+    },
+    {
+        "id": "SRV006",
+        "name": "DNS",
+        "category": "network",
+        "status": "operational"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id": "EQ001",
+        "type": "laptop",
+        "model": "Dell Latitude 5420",
+        "status": "active"
+    },
+    {
+        "id": "EQ002",
+        "type": "desktop",
+        "model": "HP ProDesk 600",
+        "status": "active"
+    },
+    {
+        "id": "EQ003",
+        "type": "keyboard",
+        "model": "Wooting 80HE",
+        "status": "active"
+    },
+    {
+        "id": "EQ004",
+        "type": "keyboard",
+        "model": "Logitech G PRO X",
+        "status": "active"
+    },
+    {
+        "id": "EQ005",
+        "type": "mouse",
+        "model": "Logitech G PRO X Superlight",
+        "status": "active"
+    },
+    {
+        "id": "EQ006",
+        "type": "mouse",
+        "model": "Razer Viper V4 PRO",
+        "status": "active"
+    },
+    {
+        "id": "EQ007",
+        "type": "laptop",
+        "model": "Lenovo Thinkpad",
+        "status": "active"
+    },
+    {
+        "id": "EQ008",
+        "type": "laptop",
+        "model": "Dell Latitude 5430",
+        "status": "active"
+    }
+]

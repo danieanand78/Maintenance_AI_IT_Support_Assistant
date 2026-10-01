@@ -1,0 +1,22 @@
+[
+    {
+        "id": "TCK-767717f8",
+        "user_id": "USR001",
+        "description": "Connexion VPN impossible",
+        "category": "Network",
+        "priority": "critical",
+        "status": "escalated",
+        "team": "Infrastructure",
+        "assigned_to": "TCN001"
+    },
+    {
+        "id": "TCK-6bf95a11",
+        "user_id": "string1",
+        "description": "string2",
+        "category": "string3",
+        "priority": "string4",
+        "status": "open",
+        "team": "string5",
+        "assigned_to": null
+    }
+]
